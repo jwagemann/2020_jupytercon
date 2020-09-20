@@ -1,6 +1,8 @@
 <img src='./img/jupyter_logo.png' align='right' width='30%'></img><br><br><br><br><br><br><br>
 
 
+
+
 # How to avoid `'death by Jupyter notebooks'`
 ### Towards more `effective` and `educational` notebooks
 
