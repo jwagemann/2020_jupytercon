@@ -15,9 +15,9 @@ This talk aims to motivate you to go the extra mile and to contribute towards mo
 ## Overview
 The talk features the following notebooks:
 
-* [01 - Example - How to NOT do it](01_example_how_not_to_do_it.ipynb)
-* [02 - Jupyter Notebooks - Key principles](02_jupyter_notebooks_key_principles.ipynb)
-* [03 - Functions example](functions_example.ipynb)
+* [01 - Example - How to NOT do it](./01_example_how_to_not_do_it.ipynb)
+* [02 - Jupyter Notebooks - Key concepts](./02_jupyter_notebooks_key_concepts.ipynb)
+* [03 - Functions example](functions.ipynb)
 
 
 <br>
