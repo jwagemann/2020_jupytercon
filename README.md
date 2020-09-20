@@ -1,7 +1,8 @@
 <img src='./img/jupytercon_logo.png' align='right' width='30%'></img><br>
 
 
-# How to avoid 'death by Jupyter notebooks' - Towards more effective and educational notebooks
+# How to avoid 'death by Jupyter notebooks'
+## Towards more effective and educational notebooks
 
 
 ## About
@@ -15,6 +16,7 @@ The talk features the following notebooks:
 * [01 - Example - How to NOT do it](01_example_how_not_to_do_it.ipynb)
 * [02 - Jupyter Notebooks - Key principles](02_jupyter_notebooks_key_principles.ipynb)
 * [03 - Functions example](functions_example.ipynb)
+
 
 <hr>
 
